@@ -8,6 +8,7 @@ int main(){
     scanf("%f",&r);
     area=PI*r*r;
     printf("area of the circle is %0.3f",area);
+    //move back to the circumference
     return (0);
     
 }
